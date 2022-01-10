@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EuclidAlgorithm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EuclidAlgorithm_jar</output-path>
+    <root id="archive" name="EuclidAlgorithm.jar">
+      <element id="module-output" name="EuclidAlgorithm" />
+    </root>
+  </artifact>
+</component>
